@@ -1,5 +1,8 @@
 # java_array_algorithms_quiz_fall_2022
 
+
+- bullet 1
+- 
 // IMPORTANT: For each solution, you should create a new file and name it with the following format: period_1_lastname_firstname_7dot4exercisename.java (change the period as needed)
 
 // example: period_1_Fox_Andy_ClimbingClubA.java
